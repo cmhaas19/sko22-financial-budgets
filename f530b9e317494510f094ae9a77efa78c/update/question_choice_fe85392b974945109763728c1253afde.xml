@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What kind of engagement is this?">0b84fde7974945109763728c1253afa7</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 18:18:09</sys_created_on>
+        <sys_id>fe85392b974945109763728c1253afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invoice</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>question_choice_fe85392b974945109763728c1253afde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 18:18:09</sys_updated_on>
+        <text>Invoice</text>
+        <value>invoice</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=fe85392b974945109763728c1253afde"/>
+</record_update>

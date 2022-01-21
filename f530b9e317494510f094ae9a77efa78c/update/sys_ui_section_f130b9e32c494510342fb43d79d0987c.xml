@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f130b9e32c494510342fb43d79d0987c" sys_domain="global" table="x_snc_financial_0_document_approval_category" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>3530b9e3344945101d162dbcdf43df7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>7530b9e37f494510caa08842337eb87c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>f530b9e33d494510cead724b1c191e7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_flow</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>3930b9e3fe494510337d5cc1bbca357c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>7930b9e3a3494510d831dfd637f9837c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>b930b9e31e494510f338ac2140163e7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_id>f930b9e3bd494510f52ae1dd7b80587c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approval_category" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">f130b9e32c494510342fb43d79d0987c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_financial_0_document_approval_category</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f130b9e32c494510342fb43d79d0987c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_financial_0_document_approval_category</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+            <sys_update_name>sys_ui_section_f130b9e32c494510342fb43d79d0987c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">0ba0e22ea5340110c0a0e1db2cdc9511</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_financial_0.Document Admin</api_name>
+        <description>Role for document approval admins</description>
+        <name>Document Admin</name>
+        <roles name="x_snc_financial_0.admin">7d30b9e3f94945103d9f80f9415b3374</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 17:55:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd30b9e3324945105d361d6efbbcb081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>sys_ux_applicability_fd30b9e3324945105d361d6efbbcb081</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 17:55:00</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>searchEvamDefinitionId</name>
+        <page display_value="Financial Budgets Group Requests Portal">7530b9e37d4945109ff1ea93d20ca33c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 17:55:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3d30b9e3bc494510bb323adae9d73b3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>searchEvamDefinitionId</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>sys_ux_page_property_3d30b9e3bc494510bb323adae9d73b3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 17:55:14</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_financial_0.7530b9e37d4945109ff1ea93d20ca33c.root.searchEvamDefinitionId</unique_name>
+        <value>3530b9e3f0494510666aa0f0ede24c37</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d30b9e3bc494510bb323adae9d73b3c"/>
+</record_update>

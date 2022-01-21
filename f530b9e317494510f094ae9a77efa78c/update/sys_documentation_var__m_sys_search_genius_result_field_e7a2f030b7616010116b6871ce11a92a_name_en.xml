@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="name" language="en" table="var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>name</label>
+            <language>en</language>
+            <name>var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a</name>
+            <plural>name</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-20 17:55:22</sys_created_on>
+            <sys_id>7530b9e30f4945103a1331f0ca034452</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_search_genius_result_field_e7a2f030b7616010116b6871ce11a92a_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-20 17:55:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

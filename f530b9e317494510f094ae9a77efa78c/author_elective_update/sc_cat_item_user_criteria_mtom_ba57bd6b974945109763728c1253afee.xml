@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Financial Budget Request">5144f9e7974945109763728c1253afa9</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 18:26:04</sys_created_on>
+        <sys_id>ba57bd6b974945109763728c1253afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Budget Request.Any User</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ba57bd6b974945109763728c1253afee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 18:26:04</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</application>
+        <file_path/>
+        <instance_id>f07505551bc54950e84d2f8dee4bcbb0</instance_id>
+        <instance_name>sko22appenginedemo</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_ba57bd6b974945109763728c1253afee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Financial Budget Request">5144f9e7974945109763728c1253afa9</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-20 18:26:04</sys_created_on><sys_id>ba57bd6b974945109763728c1253afee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Financial Budget Request.Any User</sys_name><sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package><sys_policy/><sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_ba57bd6b974945109763728c1253afee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-20 18:26:04</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-48393150</payload_hash>
+        <record_name>Financial Budget Request.Any User</record_name>
+        <reverted_from/>
+        <source>c250f127974945109763728c1253af55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 18:26:04</sys_created_on>
+        <sys_id>3a57bd6b974945109763728c1253aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e78bd13ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 18:26:04</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>be57bd6b23494510ba48ccf4452488f0</update_guid>
+        <update_guid_history>be57bd6b23494510ba48ccf4452488f0:-48393150</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Financial Budget Request.Any User">5597b1ab974945109763728c1253af37</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 18:27:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>1bd9b4b69de24b8391d210573b18ba99</sys_id>
+        <sys_metadata>ba57bd6b974945109763728c1253afee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financial Budget Request.Any User</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_parent display_value="Financial Budget Request">5144f9e7974945109763728c1253afa9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_scope_delete display_value="">32ea37eac83e43089b57d75f15d7fc04</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ba57bd6b974945109763728c1253afee</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_ba57bd6b974945109763728c1253afee">3a57bd6b974945109763728c1253aff1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 18:27:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_07_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 17:55:13</sys_created_on>
+        <sys_id>3d30b9e3e3494510e9a364a04e3fd279</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_07_element</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3d30b9e3e3494510e9a364a04e3fd279</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 17:55:13</sys_updated_on>
+        <view_config display_value="Document Approvals View Config">fd30b9e3c8494510947f442d93d4a375</view_config>
+        <view_template_slot display_value="text_07">b930b9e34a494510ec1b857e709fc679</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

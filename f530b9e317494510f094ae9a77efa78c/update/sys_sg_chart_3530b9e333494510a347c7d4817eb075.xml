@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to document approvals this month">f930b9e3984945100446d1fdfabb6b74</jump_to_screen>
+        <name>Approvals This Month</name>
+        <report display_value="Approvals This Month">7930b9e3df494510cfc011998880216e</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 17:54:57</sys_created_on>
+        <sys_id>3530b9e333494510a347c7d4817eb075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals This Month</sys_name>
+        <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_update_name>sys_sg_chart_3530b9e333494510a347c7d4817eb075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 17:54:57</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>
