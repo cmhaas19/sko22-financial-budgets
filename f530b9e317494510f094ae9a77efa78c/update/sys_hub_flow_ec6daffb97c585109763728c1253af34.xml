@@ -11,7 +11,7 @@
         <copied_from_name>Financial Budget Request (Draft)</copied_from_name>
         <description>Workflow to help automate financial budget departmental requests</description>
         <internal_name>financial_budget_request_draft_for_help</internal_name>
-        <label_cache>[{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.__dont_treat_as_error__","label":"14➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.__action_status__","label":"14➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.table_name","label":"14➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.record","label":"14➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__.message","label":"2➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__dont_treat_as_error__","label":"2➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__","label":"2➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.parameter1","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.parameter","label":"2➛Attachment Records","reference":"sys_attachment","reference_display":"Attachment","type":"records","base_type":"records","attributes":{"uiType":"records","uiTypeLabel":"Records","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6906608a-065f-4a93-a659-f7830e20e8f1.__dont_treat_as_error__","label":"7➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"6906608a-065f-4a93-a659-f7830e20e8f1.__action_status__","label":"7➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.__dont_treat_as_error__","label":"7➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.__action_status__","label":"7➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.table_name","label":"7➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.record","label":"7➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.__dont_treat_as_error__","label":"7➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.__action_status__","label":"7➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.email","label":"7➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.__dont_treat_as_error__","label":"6➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.__action_status__","label":"6➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.table_name","label":"6➛Document Approver Table","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.record","label":"6➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.__dont_treat_as_error__","label":"3➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.__action_status__","label":"3➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current.approval_id","label":"Trigger➛Document Approver Record➛Approval Id","reference":"","reference_display":"Approval Id","type":"string","base_type":"string","parent_table_name":"x_snc_financial_0_document_approver","column_name":"approval_id"},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.__dont_treat_as_error__","label":"5➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true","uiUniqueId":"386b9399-3f97-462c-8f5a-6aa04430d875"}},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.__action_status__","label":"5➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiTypeLabel":"Object","co_type_name":"FD1ec327f36bc58510e6ac0d4e4b48b7bf","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true","uiUniqueId":"3ca7c70a-1d41-45bd-9ccf-d8959288c3e0"}},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.variable","label":"5➛Status Output","reference_display":"Status Output","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5c1004b-5016-4cfb-9951-85aa3abed6ae"}},{"name":"Updated_1.current.approver.email","label":"Trigger➛Document Approver Record➛Approver➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.email","label":"1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current","label":"Trigger➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"reference","base_type":"reference","attributes":{}},{"name":"Updated_1.current.sys_created_by","label":"Trigger➛Document Approver Record➛Created by","reference":"","reference_display":"Created by","type":"string","base_type":"string","parent_table_name":"x_snc_financial_0_document_approver","column_name":"sys_created_by"},{"name":"d1fed748-1dd4-4302-b87c-bdbf291dad6d.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"d1fed748-1dd4-4302-b87c-bdbf291dad6d.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"664d1b06-6f33-4bdd-9ad7-0a958c4d121e.item","label":"3➛Attachment Record","reference":"sys_attachment","reference_display":"Attachment","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"c6d9de95-744d-428f-a712-759c555c728a.__action_status__","label":"10➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"c6d9de95-744d-428f-a712-759c555c728a.__dont_treat_as_error__","label":"10➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"42478e2d-7b01-4b1d-8ee0-8533bfc40120.answer","label":"9➛Change Approval Definition Record","reference":"chg_approval_def","reference_display":"Change Approval Definition","type":"reference","base_type":"reference","attributes":{}},{"name":"42478e2d-7b01-4b1d-8ee0-8533bfc40120.table_name","label":"9➛Change Approval Definition Table","reference":"chg_approval_def","reference_display":"Change Approval Definition","type":"table_name","base_type":"table_name","attributes":{}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.record","label":"11➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.table_name","label":"11➛Document Approver Table","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.__action_status__","label":"11➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.__dont_treat_as_error__","label":"11➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.email","label":"12➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.__action_status__","label":"12➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.__dont_treat_as_error__","label":"12➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.email","label":"15➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.__action_status__","label":"15➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.__dont_treat_as_error__","label":"15➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"139a240d-2049-4a39-9fd4-fa0640c671a0.__action_status__","label":"4➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"139a240d-2049-4a39-9fd4-fa0640c671a0.__dont_treat_as_error__","label":"4➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}}]</label_cache>
+        <label_cache>[{"name":"139a240d-2049-4a39-9fd4-fa0640c671a0.__dont_treat_as_error__","label":"4 - Log➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"139a240d-2049-4a39-9fd4-fa0640c671a0.__action_status__","label":"4 - Log➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.__dont_treat_as_error__","label":"15 - Send Email➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.__action_status__","label":"15 - Send Email➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5f36fa6a-c223-4077-8278-82b82c5e7b3a.email","label":"15 - Send Email➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.__dont_treat_as_error__","label":"11 - Send Email➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.__action_status__","label":"11 - Send Email➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5c347a9a-50a0-4489-a64e-de9274eba50f.email","label":"11 - Send Email➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.__dont_treat_as_error__","label":"10 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.__action_status__","label":"10 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.table_name","label":"10 - Update Record➛Document Approver Table","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41d742b6-5a00-4f09-b338-ef8612b514cf.record","label":"10 - Update Record➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"42478e2d-7b01-4b1d-8ee0-8533bfc40120.table_name","label":"9 - Make a decision➛Change Approval Definition Table","reference":"chg_approval_def","reference_display":"Change Approval Definition","type":"table_name","base_type":"table_name","attributes":{}},{"name":"42478e2d-7b01-4b1d-8ee0-8533bfc40120.answer","label":"9 - Make a decision➛Change Approval Definition Record","reference":"chg_approval_def","reference_display":"Change Approval Definition","type":"reference","base_type":"reference","attributes":{}},{"name":"c6d9de95-744d-428f-a712-759c555c728a.__dont_treat_as_error__","label":"10➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"c6d9de95-744d-428f-a712-759c555c728a.__action_status__","label":"10➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"664d1b06-6f33-4bdd-9ad7-0a958c4d121e.item","label":"3 - For Each➛Attachment Record","reference":"sys_attachment","reference_display":"Attachment Record","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"d1fed748-1dd4-4302-b87c-bdbf291dad6d.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"d1fed748-1dd4-4302-b87c-bdbf291dad6d.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"Updated_1.current.sys_created_by","label":"Trigger➛Document Approver Record➛Created by","reference":"","reference_display":"Created by","type":"string","base_type":"string","parent_table_name":"x_snc_financial_0_document_approver","column_name":"sys_created_by"},{"name":"Updated_1.current","label":"Trigger➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver","type":"reference","base_type":"reference","attributes":{}},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.email","label":"1 - Send Email➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.__action_status__","label":"1 - Send Email➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3bf3498e-65c8-4824-88ae-7c654fc77773.__dont_treat_as_error__","label":"1 - Send Email➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current.approver.email","label":"Trigger➛Document Approver Record➛Approver➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.variable","label":"5➛Status Output","reference_display":"Status Output","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"a5c1004b-5016-4cfb-9951-85aa3abed6ae"}},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.__action_status__","label":"5➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiTypeLabel":"Object","co_type_name":"FD1ec327f36bc58510e6ac0d4e4b48b7bf","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true","uiUniqueId":"3ca7c70a-1d41-45bd-9ccf-d8959288c3e0"}},{"name":"5f48da8c-3e25-4827-bf87-f706e24b2d6b.__dont_treat_as_error__","label":"5➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiTypeLabel":"True/False","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true","uiUniqueId":"386b9399-3f97-462c-8f5a-6aa04430d875"}},{"name":"Updated_1.current.approval_id","label":"Trigger➛Document Approver Record➛Approval Id","reference":"","reference_display":"Approval Id","type":"string","base_type":"string","parent_table_name":"x_snc_financial_0_document_approver","column_name":"approval_id"},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.__action_status__","label":"3➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"cd6c029f-f52b-40b6-a32d-65b11bf83e6a.__dont_treat_as_error__","label":"3➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.record","label":"6 - Update Record➛Document Approver Record","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.table_name","label":"6 - Update Record➛Document Approver Table","reference":"x_snc_financial_0_document_approver","reference_display":"Document Approver Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"15350af4-033e-4248-b1a3-c82ab273d71d.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.email","label":"7 - Send Email➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.__action_status__","label":"7 - Send Email➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3a15b47-8976-4f6f-b590-553abeab6543.__dont_treat_as_error__","label":"7 - Send Email➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.record","label":"7➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.table_name","label":"7➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.__action_status__","label":"7➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"5b244921-d282-4172-b803-1ab54cd0e948.__dont_treat_as_error__","label":"7➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"6906608a-065f-4a93-a659-f7830e20e8f1.__action_status__","label":"7➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"6906608a-065f-4a93-a659-f7830e20e8f1.__dont_treat_as_error__","label":"7➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.parameter","label":"2 - Get Attachments on Record➛Attachment Records","reference":"sys_attachment","reference_display":"Attachment Records","type":"records","base_type":"records","attributes":{"uiType":"records","uiTypeLabel":"Records","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.parameter1","label":"2 - Get Attachments on Record➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__","label":"2 - Get Attachments on Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__dont_treat_as_error__","label":"2 - Get Attachments on Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__.message","label":"2➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.record","label":"14 - Update Record➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.table_name","label":"14 - Update Record➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.__action_status__","label":"14 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"41f8ca95-6c0d-4d5f-8707-bb704f9262f9.__dont_treat_as_error__","label":"14 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>Financial Budget Request (Draft for Help)</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ec6daffb97c585109763728c1253af34</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Financial Budget Request (Draft for Help)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name>sys_hub_flow_ec6daffb97c585109763728c1253af34</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:15</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=ec6daffb97c585109763728c1253af34"/>
@@ -53,10 +53,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:15</sys_created_on>
         <sys_id>c96daffb97c585109763728c1253afd3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:15</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:45</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -92,6 +92,7 @@
         <variable display_value="Condition">bb9adea0c31322002841b63b12d3ae67</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_output_bb695e60c31322002841b63b12d3aea5^id=c96daffb97c585109763728c1253afd3"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=ec6daffb97c585109763728c1253af34"/>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=ec6daffb97c585109763728c1253af34^sys_idNOT IN686daffb97c585109763728c1253af36"/>
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>ec6daffb97c585109763728c1253af34</id>
@@ -104,12 +105,13 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
     </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=686daffb97c585109763728c1253af36"/>
     <sys_hub_flow_input action="delete_multiple" query="model=ec6daffb97c585109763728c1253af34^sys_idNOT IN206daffb97c585109763728c1253af63,286daffb97c585109763728c1253af44,606daffb97c585109763728c1253af3e"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD2c6daffbfac585104769743cba35963b,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD8c31cc8ce2910110a9aee004cd9790d9,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -167,14 +169,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>206daffb97c585109763728c1253af63</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -190,7 +192,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -248,14 +250,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>286daffb97c585109763728c1253af44</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:03:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -271,7 +273,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -329,14 +331,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>606daffb97c585109763728c1253af3e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:03:01</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -348,6 +350,8 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_flow_output action="delete_multiple" query="model=ec6daffb97c585109763728c1253af34"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=ec6daffb97c585109763728c1253af34"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=ec6daffb97c585109763728c1253af34^sys_idNOT IN096daffb97c585109763728c1253afc4,096daffb97c585109763728c1253afca,3c6daffb97c585109763728c1253afae,746daffb97c585109763728c1253af96,b06daffb97c585109763728c1253afa3,b86daffb97c585109763728c1253afb6,b86daffb97c585109763728c1253afbc,c56daffb97c585109763728c1253afd1,fc6daffb97c585109763728c1253afa8"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -358,16 +362,16 @@
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
-        <order>12</order>
-        <parent_ui_id>a62293ac-1b79-496a-ab73-f9bcf5645c3c</parent_ui_id>
+        <order>11</order>
+        <parent_ui_id>cd9a70aa-0501-4164-b25b-bbeb1fc3d9af</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>096daffb97c585109763728c1253afc4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>5c347a9a-50a0-4489-a64e-de9274eba50f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=096daffb97c585109763728c1253afc4"/>
@@ -410,6 +414,8 @@
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>{{3bf3498e-65c8-4824-88ae-7c654fc77773.email}} </value>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=096daffb97c585109763728c1253afc4"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=096daffb97c585109763728c1253afc4"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
@@ -419,19 +425,21 @@
         <display_text/>
         <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
         <order>14</order>
-        <parent_ui_id>79f1d079-7c28-41a8-8324-d19af19e7609</parent_ui_id>
+        <parent_ui_id>3a121545-587d-4f72-9728-861f19fbf4c7</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:15</sys_created_on>
         <sys_id>096daffb97c585109763728c1253afca</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:15</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>41f8ca95-6c0d-4d5f-8707-bb704f9262f9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=096daffb97c585109763728c1253afca"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1^id=096daffb97c585109763728c1253afca"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=096daffb97c585109763728c1253afca"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=096daffb97c585109763728c1253afca"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -447,10 +455,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>3c6daffb97c585109763728c1253afae</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>15350af4-033e-4248-b1a3-c82ab273d71d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3c6daffb97c585109763728c1253afae"/>
@@ -519,6 +527,8 @@
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value/>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3c6daffb97c585109763728c1253afae"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=3c6daffb97c585109763728c1253afae"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -534,10 +544,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>746daffb97c585109763728c1253af96</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:45</sys_updated_on>
         <ui_id>3bf3498e-65c8-4824-88ae-7c654fc77773</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=746daffb97c585109763728c1253af96"/>
@@ -656,6 +666,8 @@
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value/>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=746daffb97c585109763728c1253af96"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=746daffb97c585109763728c1253af96"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -671,10 +683,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>b06daffb97c585109763728c1253afa3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:45</sys_updated_on>
         <ui_id>9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b06daffb97c585109763728c1253afa3"/>
@@ -691,12 +703,14 @@
         <table>var__m_sys_hub_action_input_082e70db0f4273003788001ea8767e02</table>
         <value>{{Updated_1.current}}</value>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=b06daffb97c585109763728c1253afa3"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=b06daffb97c585109763728c1253afa3"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <comment>Notify Requestor &amp; Finance Workfer of Successful Import</comment>
+        <comment>Notify Requestor &amp; Finance Worker of Successful Import</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
@@ -706,10 +720,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>b86daffb97c585109763728c1253afb6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>b3a15b47-8976-4f6f-b590-553abeab6543</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b86daffb97c585109763728c1253afb6"/>
@@ -752,6 +766,8 @@
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>{{3bf3498e-65c8-4824-88ae-7c654fc77773.email}} </value>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=b86daffb97c585109763728c1253afb6"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=b86daffb97c585109763728c1253afb6"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -761,16 +777,16 @@
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
-        <order>11</order>
-        <parent_ui_id>a62293ac-1b79-496a-ab73-f9bcf5645c3c</parent_ui_id>
+        <order>10</order>
+        <parent_ui_id>cd9a70aa-0501-4164-b25b-bbeb1fc3d9af</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>b86daffb97c585109763728c1253afbc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>41d742b6-5a00-4f09-b338-ef8612b514cf</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b86daffb97c585109763728c1253afbc"/>
@@ -839,6 +855,8 @@
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value/>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=b86daffb97c585109763728c1253afbc"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=b86daffb97c585109763728c1253afbc"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -849,15 +867,15 @@
         <display_text/>
         <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
         <order>15</order>
-        <parent_ui_id>79f1d079-7c28-41a8-8324-d19af19e7609</parent_ui_id>
+        <parent_ui_id>3a121545-587d-4f72-9728-861f19fbf4c7</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:15</sys_created_on>
         <sys_id>c56daffb97c585109763728c1253afd1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:15</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>5f36fa6a-c223-4077-8278-82b82c5e7b3a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c56daffb97c585109763728c1253afd1"/>
@@ -900,6 +918,8 @@
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>{{3bf3498e-65c8-4824-88ae-7c654fc77773.email}} </value>
     </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=c56daffb97c585109763728c1253afd1"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=c56daffb97c585109763728c1253afd1"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
@@ -914,10 +934,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:14</sys_created_on>
         <sys_id>fc6daffb97c585109763728c1253afa8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>139a240d-2049-4a39-9fd4-fa0640c671a0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fc6daffb97c585109763728c1253afa8"/>
@@ -936,9 +956,12 @@
         <variable display_value="Message">23c1bcc6531003003bf1d9109ec587e5</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_5bc1bcc6531003003bf1d9109ec587d4^id=fc6daffb97c585109763728c1253afa8"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=ec6daffb97c585109763728c1253af34^sys_idNOT IN206daffb97c585109763728c1253af6f,a46daffb97c585109763728c1253af6b,b86daffb97c585109763728c1253af88,e46daffb97c585109763728c1253af72,f46daffb97c585109763728c1253af8c,fc6daffb97c585109763728c1253af75"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=fc6daffb97c585109763728c1253afa8"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=fc6daffb97c585109763728c1253afa8"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=ec6daffb97c585109763728c1253af34"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=ec6daffb97c585109763728c1253af34^sys_idNOT IN206daffb97c585109763728c1253af6f,2550008c04910110f87762aa1b9079cd,4de0c88c04910110f87762aa1b907927,85e0c88c04910110f87762aa1b907931,a46daffb97c585109763728c1253af6b,e46daffb97c585109763728c1253af72,e950008c04910110f87762aa1b9079c6"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">3366e37797c585109763728c1253afe2</block>
+        <block display_value="">a150008c04910110f87762aa1b9079bb</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -958,10 +981,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>206daffb97c585109763728c1253af6f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>e68e06cf-57c6-42e8-a299-508af5622dfe</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -982,8 +1005,106 @@
         <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=206daffb97c585109763728c1253af6f"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=206daffb97c585109763728c1253af6f"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=206daffb97c585109763728c1253af6f"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">64fa637b97c585109763728c1253af02</block>
+        <block display_value="">ad50008c04910110f87762aa1b9079cc</block>
+        <comment/>
+        <connected_to>cd9a70aa-0501-4164-b25b-bbeb1fc3d9af</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>13</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>8db3b584-1775-4a2e-bc07-e4505a8e8547</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 23:03:02</sys_created_on>
+        <sys_id>2550008c04910110f87762aa1b9079cd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
+        <ui_id>3a121545-587d-4f72-9728-861f19fbf4c7</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=2550008c04910110f87762aa1b9079cd"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=2550008c04910110f87762aa1b9079cd"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=2550008c04910110f87762aa1b9079cd"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">c5e0c88c04910110f87762aa1b907927</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
+        <order>12</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>cd9a70aa-0501-4164-b25b-bbeb1fc3d9af</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 23:05:27</sys_created_on>
+        <sys_id>4de0c88c04910110f87762aa1b907927</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
+        <ui_id>5b6e76c0-b38a-4a77-8fe5-8ffd285069d0</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=4de0c88c04910110f87762aa1b907927"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=4de0c88c04910110f87762aa1b907927"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=4de0c88c04910110f87762aa1b907927"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">01e0c88c04910110f87762aa1b907931</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
+        <order>16</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>3a121545-587d-4f72-9728-861f19fbf4c7</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 23:05:27</sys_created_on>
+        <sys_id>85e0c88c04910110f87762aa1b907931</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
+        <ui_id>8929bb43-7542-4eae-b2ef-0886d642822f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=85e0c88c04910110f87762aa1b907931"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=85e0c88c04910110f87762aa1b907931"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=85e0c88c04910110f87762aa1b907931"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">ed50008c04910110f87762aa1b9079b4</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1004,10 +1125,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>a46daffb97c585109763728c1253af6b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>664d1b06-6f33-4bdd-9ad7-0a958c4d121e</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1026,53 +1147,10 @@
         <table>var__m_sys_hub_flow_logic_input_098e1dc5c3e232002841b63b12d3ae33</table>
         <value>{{9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.parameter}}</value>
     </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=a46daffb97c585109763728c1253af6b"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=a46daffb97c585109763728c1253af6b"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">f4fa637b97c585109763728c1253af1d</block>
-        <comment/>
-        <connected_to/>
-        <decision_table/>
-        <decision_table_inputs/>
-        <display_text/>
-        <extended_inputs/>
-        <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
-        <flow_variable/>
-        <flow_variables_assigned/>
-        <inputs/>
-        <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>10</order>
-        <outputs_assigned/>
-        <outputs_to_assign/>
-        <parent_ui_id>42478e2d-7b01-4b1d-8ee0-8533bfc40120</parent_ui_id>
-        <sys_class_name>sys_hub_flow_logic</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:14</sys_created_on>
-        <sys_id>b86daffb97c585109763728c1253af88</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
-        <ui_id>a62293ac-1b79-496a-ab73-f9bcf5645c3c</ui_id>
-        <workflow_inputs/>
-        <workflow_reference/>
-    </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=b86daffb97c585109763728c1253af88"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_flow_logic</document>
-        <document_key>b86daffb97c585109763728c1253af88</document_key>
-        <order>200</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:14</sys_created_on>
-        <sys_id>786daffb97c585109763728c1253af8b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
-        <value>5684821db701230034d1da23ee11a94d</value>
-        <variable display_value="answer">70ef385873002300612c273ffff6a764</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_b1f542d673331300612c273ffff6a7c7^id=b86daffb97c585109763728c1253af88"/>
-    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">fb66277797c585109763728c1253af02</block>
+        <block display_value="">2950008c04910110f87762aa1b9079c3</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1092,10 +1170,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:40:13</sys_created_on>
         <sys_id>e46daffb97c585109763728c1253af72</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
         <ui_id>8db3b584-1775-4a2e-bc07-e4505a8e8547</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1116,8 +1194,10 @@
         <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e^id=e46daffb97c585109763728c1253af72"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=e46daffb97c585109763728c1253af72"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e46daffb97c585109763728c1253af72"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">74fa637b97c585109763728c1253af2f</block>
+        <block display_value="">6550008c04910110f87762aa1b9079c6</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1128,99 +1208,68 @@
         <flow_variable/>
         <flow_variables_assigned/>
         <inputs/>
-        <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
-        <order>13</order>
-        <outputs_assigned/>
-        <outputs_to_assign/>
-        <parent_ui_id>42478e2d-7b01-4b1d-8ee0-8533bfc40120</parent_ui_id>
-        <sys_class_name>sys_hub_flow_logic</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:14</sys_created_on>
-        <sys_id>f46daffb97c585109763728c1253af8c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
-        <ui_id>79f1d079-7c28-41a8-8324-d19af19e7609</ui_id>
-        <workflow_inputs/>
-        <workflow_reference/>
-    </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=f46daffb97c585109763728c1253af8c"/>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_b1f542d673331300612c273ffff6a7c7^id=f46daffb97c585109763728c1253af8c"/>
-    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">74fa637b97c585109763728c1253af16</block>
-        <comment>Error Code for Higher Approval or Import Issue</comment>
-        <connected_to/>
-        <decision_table display_value="Example Standard Change Policy">e49568a7b701230034d1da23ee11a913</decision_table>
-        <decision_table_inputs/>
-        <display_text/>
-        <extended_inputs/>
-        <flow display_value="Financial Budget Request (Draft for Help)">ec6daffb97c585109763728c1253af34</flow>
-        <flow_variable/>
-        <flow_variables_assigned/>
         <inputs/>
-        <logic_definition display_value="Make a decision">578e90270b2313009002cab937673a7d</logic_definition>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
         <order>9</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>8db3b584-1775-4a2e-bc07-e4505a8e8547</parent_ui_id>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:13</sys_created_on>
-        <sys_id>fc6daffb97c585109763728c1253af75</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_created_on>2022-01-21 23:03:02</sys_created_on>
+        <sys_id>e950008c04910110f87762aa1b9079c6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
-        <ui_id>42478e2d-7b01-4b1d-8ee0-8533bfc40120</ui_id>
+        <sys_updated_on>2022-01-21 23:06:46</sys_updated_on>
+        <ui_id>cd9a70aa-0501-4164-b25b-bbeb1fc3d9af</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
     </sys_hub_flow_logic>
-    <sys_variable_value action="delete_multiple" query="document_key=fc6daffb97c585109763728c1253af75"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e950008c04910110f87762aa1b9079c6"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_flow_logic</document>
-        <document_key>fc6daffb97c585109763728c1253af75</document_key>
+        <document_key>e950008c04910110f87762aa1b9079c6</document_key>
         <order>10</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:14</sys_created_on>
-        <sys_id>746daffb97c585109763728c1253af7b</sys_id>
+        <sys_created_on>2022-01-21 23:03:02</sys_created_on>
+        <sys_id>6950008c04910110f87762aa1b9079c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
-        <value>e49568a7b701230034d1da23ee11a913</value>
-        <variable display_value="Decision Table">a9a0bc2b0b2313009002cab937673ac6</variable>
+        <sys_updated_on>2022-01-21 23:03:02</sys_updated_on>
+        <value>Higher Approval Requested</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
     </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_flow_logic</document>
-        <document_key>fc6daffb97c585109763728c1253af75</document_key>
-        <order>200</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
+    <sys_element_mapping action="delete_multiple" query="id=e950008c04910110f87762aa1b9079c6"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>e950008c04910110f87762aa1b9079c6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:14</sys_created_on>
-        <sys_id>b06daffb97c585109763728c1253af7b</sys_id>
+        <sys_created_on>2022-01-21 23:03:02</sys_created_on>
+        <sys_id>e550008c04910110f87762aa1b9079c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:14</sys_updated_on>
-        <value>1</value>
-        <variable display_value="Include Otherwise">346b30a30b6313009002cab937673a5e</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_flow_logic</document>
-        <document_key>fc6daffb97c585109763728c1253af75</document_key>
-        <order>100</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_updated_on>2022-01-21 23:03:02</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{139a240d-2049-4a39-9fd4-fa0640c671a0.__action_status__}}=Stub</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>e950008c04910110f87762aa1b9079c6</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:40:13</sys_created_on>
-        <sys_id>fc6daffb97c585109763728c1253af7a</sys_id>
+        <sys_created_on>2022-01-21 23:03:02</sys_created_on>
+        <sys_id>2550008c04910110f87762aa1b9079c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:40:13</sys_updated_on>
-        <value>chg_approval_def</value>
-        <variable display_value="Answer Table">4cbdbf94c35823002841b63b12d3aeb6</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_decision_input_e49568a7b701230034d1da23ee11a913^id=fc6daffb97c585109763728c1253af75"/>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_578e90270b2313009002cab937673a7d^id=fc6daffb97c585109763728c1253af75"/>
+        <sys_updated_on>2022-01-21 23:03:02</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=e950008c04910110f87762aa1b9079c6"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e950008c04910110f87762aa1b9079c6"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=ec6daffb97c585109763728c1253af34"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=ec6daffb97c585109763728c1253af34"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_ec6daffb97c585109763728c1253af34^sys_idNOT IN606daffb97c585109763728c1253af43,a86daffb97c585109763728c1253af67,e86daffb97c585109763728c1253af48"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>table_name</element>
@@ -1291,4 +1340,9 @@
         <url/>
         <url_target/>
     </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_ec6daffb97c585109763728c1253af34"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_ec6daffb97c585109763728c1253af34"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ec6daffb97c585109763728c1253af34"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ec6daffb97c585109763728c1253af34"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ec6daffb97c585109763728c1253af34"/>
 </record_update>
