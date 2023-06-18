@@ -4,6 +4,7 @@
         <button display_value="Approve document">3530b9e3e14945105fce8e24c685eb73</button>
         <color_theme>primary</color_theme>
         <description/>
+        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

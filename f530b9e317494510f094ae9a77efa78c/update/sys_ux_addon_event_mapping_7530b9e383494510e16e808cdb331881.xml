@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
     <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
         <active>true</active>
+        <controller/>
         <description/>
         <name>Create New Document Approval Category</name>
         <parent_macroponent display_value="List Admin">b530b9e346494510a7da53d8a8791d81</parent_macroponent>
+        <source_component/>
         <source_da display_value="create-new-doc-category">f530b9e3e149451066211ebb0b2add4f</source_da>
         <source_element_id>list</source_element_id>
         <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>

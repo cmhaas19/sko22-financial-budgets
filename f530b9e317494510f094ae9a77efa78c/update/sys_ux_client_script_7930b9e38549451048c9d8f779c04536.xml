@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="List">3930b9e33e494510f04164aec22ba088</macroponent>
         <name/>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({
     api,
@@ -40,5 +41,7 @@
         <sys_update_name>sys_ux_client_script_7930b9e38549451048c9d8f779c04536</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:11</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

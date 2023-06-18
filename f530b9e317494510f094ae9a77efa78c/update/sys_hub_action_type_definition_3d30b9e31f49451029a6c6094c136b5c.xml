@@ -8,7 +8,6 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
-        <compiler_build/>
         <copied_from/>
         <copied_from_name/>
         <description>Execute the flow associated with document approval category record</description>
@@ -19,6 +18,7 @@
         <name>Execute Flow</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <state>published</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_3d30b9e31f49451029a6c6094c136b5c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-20 17:55:15</sys_updated_on>
+        <sys_updated_on>2023-05-30 00:38:03</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -152,6 +152,7 @@
         <value>{{action.flow_name}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=bd30b9e3fe494510b737681c789c0a5c"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd30b9e3fe494510b737681c789c0a5c"/>
     <sys_hub_step_ext_input action="delete_multiple" query="model=bd30b9e3fe494510b737681c789c0a5c^sys_idNOT IN7530b9e3a64945100f323a24667d155d,f530b9e3f74945106687ee4b8d19e75d"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -184,11 +185,12 @@
         <element>in_flow</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label/>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
@@ -230,6 +232,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -265,11 +268,12 @@
         <element>document_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label/>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
@@ -311,10 +315,14 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=bd30b9e3fe494510b737681c789c0a5c"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=bd30b9e3fe494510b737681c789c0a5c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_bd30b9e3fe494510b737681c789c0a5c"/>
     <sys_hub_action_input action="delete_multiple" query="model=3d30b9e31f49451029a6c6094c136b5c^sys_idNOT IN3930b9e36f4945109c19690e42cc6c5d,7930b9e3494945104714d256ecd4825d"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -347,11 +355,12 @@
         <element>document_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>document_id</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
@@ -393,10 +402,12 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_action_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=3930b9e36f4945109c19690e42cc6c5d"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -428,11 +439,12 @@
         <element>flow_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>flow_name</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
@@ -474,10 +486,15 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_action_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=7930b9e3494945104714d256ecd4825d"/>
+    <sys_hub_action_output action="delete_multiple" query="model=3d30b9e31f49451029a6c6094c136b5c"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=3d30b9e31f49451029a6c6094c136b5c"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=3d30b9e31f49451029a6c6094c136b5c"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_3d30b9e31f49451029a6c6094c136b5c^sys_idNOT INbd30b9e3ac494510b65746ddeaa91655"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>document_id</element>
@@ -488,8 +505,8 @@
         <name>var__m_sys_hub_action_input_3d30b9e31f49451029a6c6094c136b5c</name>
         <plural/>
         <sys_class_name>sys_documentation</sys_class_name>
-        <sys_created_by/>
-        <sys_created_on/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-30 00:38:02</sys_created_on>
         <sys_id>bd30b9e3ac494510b65746ddeaa91655</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>document_id</sys_name>
@@ -502,6 +519,9 @@
         <url/>
         <url_target/>
     </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_3d30b9e31f49451029a6c6094c136b5c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_3d30b9e31f49451029a6c6094c136b5c"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_3d30b9e31f49451029a6c6094c136b5c"/>
     <sys_hub_action_plan action="delete_multiple" query="action_id=3d30b9e31f49451029a6c6094c136b5c^sys_idNOT INb930b9e3b34945104149a592a842c75d"/>
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Execute Flow">3d30b9e31f49451029a6c6094c136b5c</action_id>
@@ -668,6 +688,7 @@
         <value>{{action.flow_name}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=3d30b9e3374945101804a49137eec45d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d30b9e3374945101804a49137eec45d"/>
     <sys_hub_step_ext_input action="delete_multiple" query="model=3d30b9e3374945101804a49137eec45d^sys_idNOT IN3530b9e3d1494510bd0af95df9c8cc5e,7530b9e38f494510f82aeb9df899775e"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -700,11 +721,12 @@
         <element>in_flow</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>in_flow</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
@@ -746,6 +768,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -781,11 +804,12 @@
         <element>document_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>document_id</label>
         <mandatory>true</mandatory>
         <max_length>8000</max_length>
@@ -827,10 +851,14 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_step_ext_input>
+    <sys_hub_step_ext_output action="delete_multiple" query="model=3d30b9e3374945101804a49137eec45d"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3d30b9e3374945101804a49137eec45d"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_3d30b9e3374945101804a49137eec45d"/>
     <sys_hub_action_input action="delete_multiple" query="model=7d30b9e3ae494510ebab6147e45ce55c^sys_idNOT INb530b9e35f494510bd8828c69322fa5e,f530b9e3df494510e2fe3faa185ddd5e"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -863,11 +891,12 @@
         <element>flow_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>flow_name</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
@@ -909,10 +938,12 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_action_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=b530b9e35f494510bd8828c69322fa5e"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -944,11 +975,12 @@
         <element>document_id</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>document_id</label>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
@@ -990,12 +1022,22 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_action_input>
-    <sys_hub_action_type_definition action="update">
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=f530b9e3df494510e2fe3faa185ddd5e"/>
+    <sys_hub_action_output action="delete_multiple" query="model=7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_7d30b9e3ae494510ebab6147e45ce55c"/>
+    <sys_hub_action_type_definition action="UPDATE">
         <sys_id>3d30b9e31f49451029a6c6094c136b5c</sys_id>
         <latest_snapshot>7d30b9e3ae494510ebab6147e45ce55c</latest_snapshot>
+        <compiler_build/>
     </sys_hub_action_type_definition>
 </record_update>

@@ -8,12 +8,12 @@
         <derived>true</derived>
         <field/>
         <label>Document Approval Search Profile Default Spell Check Dictionary</label>
-        <last_derived>2021-01-27 02:58:34</last_derived>
+        <last_derived>2023-06-18 17:26:56</last_derived>
         <locale>en</locale>
         <name>x_snc_financial_0_document_approval_sear</name>
-        <publish_id>9a946091-7bb9-4cf3-a298-cf34bf7d3ca4</publish_id>
+        <publish_id>790586a2-91ae-4eea-bd09-49a94e5b9bb5</publish_id>
         <punctuation_sensitive>true</punctuation_sensitive>
-        <state>DRAFT</state>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 17:55:20</sys_created_on>

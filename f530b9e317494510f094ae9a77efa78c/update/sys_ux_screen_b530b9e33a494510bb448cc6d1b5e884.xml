@@ -99,8 +99,9 @@
 }</macroponent_config>
         <name>List drilldown default</name>
         <order>0</order>
-        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
         <required_translations>[]</required_translations>
+        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="List drilldown">f530b9e309494510b839af9925129285</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

@@ -2409,8 +2409,11 @@
   },
   "readEvaluationMode" : "EAGER"
 } ]</data>
+        <description/>
         <dispatched_events>b930b9e3fb4945102bafb9bfd9b60539,7930b9e3c3494510f04f4142a940f839</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events>f530b9e3b14945100605f22a319ab881</handled_events>
         <interactions/>
         <interfaces/>
@@ -2576,6 +2579,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>List Admin</name>
+        <output_prop_mapping/>
         <props>[ {
   "name" : "tinyId",
   "label" : "tinyId",
@@ -2684,4 +2688,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=b530b9e346494510a7da53d8a8791d81"/>
 </record_update>

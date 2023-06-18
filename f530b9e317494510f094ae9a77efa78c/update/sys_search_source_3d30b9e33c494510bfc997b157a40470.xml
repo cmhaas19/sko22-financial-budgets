@@ -4,7 +4,9 @@
         <condition table="x_snc_financial_0_document_approval_category">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
+        <group/>
         <name>Document Approval Category</name>
+        <roles/>
         <source_table>x_snc_financial_0_document_approval_category</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

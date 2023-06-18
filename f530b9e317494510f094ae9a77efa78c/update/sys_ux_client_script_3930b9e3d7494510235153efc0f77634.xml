@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Record">3530b9e3d2494510444b94d497dc5b81</macroponent>
         <name>logInteractionActivities</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function script({
     api,
@@ -62,5 +63,7 @@
         <sys_update_name>sys_ux_client_script_3930b9e3d7494510235153efc0f77634</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

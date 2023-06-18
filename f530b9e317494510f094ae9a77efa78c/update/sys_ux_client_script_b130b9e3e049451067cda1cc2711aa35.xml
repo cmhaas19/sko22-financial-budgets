@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="doc_submitted">f130b9e3ac4945109a19d2fbe6789135</macroponent>
         <name>Refresh Submit Button</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -41,5 +42,7 @@ function handler({
         <sys_update_name>sys_ux_client_script_b130b9e3e049451067cda1cc2711aa35</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

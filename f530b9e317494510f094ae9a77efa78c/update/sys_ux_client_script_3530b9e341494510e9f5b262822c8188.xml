@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Search results">f130b9e3e14945108dfe649e7234a388</macroponent>
         <name>Handle Search</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -48,5 +49,7 @@ function({
         <sys_update_name>sys_ux_client_script_3530b9e341494510e9f5b262822c8188</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:11</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

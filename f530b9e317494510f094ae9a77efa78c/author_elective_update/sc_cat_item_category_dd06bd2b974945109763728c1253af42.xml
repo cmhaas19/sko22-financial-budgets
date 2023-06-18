@@ -41,7 +41,7 @@
         <update_guid_history>9906bd2b99494510de0f1626a1d53a4c:-178044259</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Departmental Services.Financial Budget Request">1866f16b974945109763728c1253af51</sys_audit_delete>
+        <sys_audit_delete display_value="">1866f16b974945109763728c1253af51</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 18:21:48</sys_created_on>

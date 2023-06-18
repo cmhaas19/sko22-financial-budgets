@@ -258,8 +258,11 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
+        <description/>
         <dispatched_events>f530b9e3b4494510308e5becd861b439,d9f32aa20b2210108e64aabcb4673a61,69f32aa20b2210108e64aabcb4673a67,edf32aa20b2210108e64aabcb4673a72</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -289,6 +292,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>404</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[{"message":"Page not found","comment":""},{"message":"Button","comment":""},{"message":"Go Home","comment":""}]</required_translations>
         <root_component/>
@@ -309,4 +313,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:13</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd30b9e33e4945103e1761dc7b6b8e87"/>
 </record_update>

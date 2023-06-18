@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by/>
             <sys_created_on/>
-            <sys_id>97303de3974945109763728c1253af85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-01-20 17:54:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f930b9e3dc494510fb1ae9c6061aa84e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-01-20 17:54:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3d30b9e3f4494510881429534f79894e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-01-20 17:54:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7d30b9e373494510ab8ebc206bdccb4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2022-01-20 17:54:58</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bd30b9e3584945100977ef0208e4d94e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>

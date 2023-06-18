@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by/>
             <sys_created_on/>
-            <sys_id>6630f9e3974945109763728c1253af3f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-01-20 17:54:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7130b9e3c74945100b85bc86ea34694f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-01-20 17:54:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b130b9e363494510d76a28ef7e26944f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-01-20 17:54:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f130b9e34649451058cb700e940ce54f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2022-01-20 17:54:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3530b9e390494510c7b954b56b87554f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2022-01-20 17:54:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7530b9e3c34945108ea0d13984ae094f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>

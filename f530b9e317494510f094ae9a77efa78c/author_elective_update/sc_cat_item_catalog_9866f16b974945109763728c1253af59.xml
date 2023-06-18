@@ -41,7 +41,7 @@
         <update_guid_history>d866f16bc9494510578fa857f27d115e:821868211</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Financial Budget Request">6686756b974945109763728c1253af8c</sys_audit_delete>
+        <sys_audit_delete display_value="">6686756b974945109763728c1253af8c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 18:22:30</sys_created_on>

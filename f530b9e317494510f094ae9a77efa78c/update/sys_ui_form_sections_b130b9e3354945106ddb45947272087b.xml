@@ -9,8 +9,8 @@
             <sys_id>f130b9e3324945108f259ed428c2ac7b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_financial_0_document_approver" name="x_snc_financial_0_document_approver" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">b130b9e3354945106ddb45947272087b</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approver" sys_domain="global" view="0ba0e22ea5340110c0a0e1db2cdc9511">3530b9e3d54945100825e66d50f0dc7b</sys_ui_section>
+            <sys_ui_form display_value="x_snc_financial_0_document_approver" name="x_snc_financial_0_document_approver" sys_domain="global" view="d75c2d64a9a0211076daa554cb57d9a7">b130b9e3354945106ddb45947272087b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_financial_0_document_approver" sys_domain="global" view="d75c2d64a9a0211076daa554cb57d9a7">3530b9e3d54945100825e66d50f0dc7b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
         </sys_ui_form_section>
@@ -33,7 +33,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
             <sys_user/>
-            <view display_value="Workspace" name="workspace">0ba0e22ea5340110c0a0e1db2cdc9511</view>
+            <view display_value="Workspace" name="workspace">d75c2d64a9a0211076daa554cb57d9a7</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

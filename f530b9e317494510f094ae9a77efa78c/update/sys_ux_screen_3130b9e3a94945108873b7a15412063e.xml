@@ -19,6 +19,7 @@
         <order>0</order>
         <parent_macroponent display_value="document_record_display">b530b9e3834945100312869dcc579885</parent_macroponent>
         <required_translations>[]</required_translations>
+        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Activity">b930b9e3ec49451028716017f6198785</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>

@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Search results">f130b9e3e14945108dfe649e7234a388</macroponent>
         <name>Handle Facet Click</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -40,5 +41,7 @@ function handler({
         <sys_update_name>sys_ux_client_script_7530b9e37d4945102542cacfce2e0634</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:58</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

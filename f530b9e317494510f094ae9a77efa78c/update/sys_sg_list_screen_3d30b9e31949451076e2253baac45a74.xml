@@ -10,6 +10,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Address-Book">b530b9e3c9494510357434ab943add76</icon>
         <name>Needs Attention</name>
+        <parameter_screen/>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>

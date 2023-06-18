@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
     <sys_sg_chart_section action="INSERT_OR_UPDATE">
         <active>true</active>
+        <card_size/>
         <charts>7530b9e3bd4945100c401bb100933175,b530b9e3e84945104ffc093aaae35375,3530b9e333494510a347c7d4817eb075</charts>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
         <data_item/>
         <hide_header>false</hide_header>
         <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
         <is_hidden_preference_name/>
         <orientation>horizontal</orientation>
         <required_roles/>
+        <row_count/>
         <sys_class_name>sys_sg_chart_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 17:55:06</sys_created_on>
@@ -24,5 +30,6 @@
         <title>Document Approvals</title>
         <type>single_score</type>
         <visible_condition/>
+        <wide_column_count/>
     </sys_sg_chart_section>
 </record_update>

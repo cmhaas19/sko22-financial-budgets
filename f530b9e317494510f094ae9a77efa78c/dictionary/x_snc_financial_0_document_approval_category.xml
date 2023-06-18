@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Document Approval Category" max_length="40" name="x_snc_financial_0_document_approval_category" sizeclass="2" text_index="true" type="collection">
+    <element db_object_id="81cd47aa87832510be5731d83cbb356b" label="Document Approval Category" max_length="40" name="x_snc_financial_0_document_approval_category" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>

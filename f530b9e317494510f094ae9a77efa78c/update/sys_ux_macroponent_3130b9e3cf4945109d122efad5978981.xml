@@ -804,8 +804,11 @@
   "inputValues" : { },
   "readEvaluationMode" : "EAGER"
 } ]</data>
+        <description/>
         <dispatched_events>7d30b9e37d4945102919428379549d39,b7ea99060f921010036a83fa68767e53,7fea99060f921010036a83fa68767e58,3fea99060f921010036a83fa68767e61</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events>7130b9e38f4945105e24221c3ed57e81</handled_events>
         <interactions/>
         <interfaces/>
@@ -835,6 +838,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Landing page</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[{"message":"Submit Document","comment":""},{"message":"In Progress","comment":""},{"message":"You have no documents waiting for approval. Get started by submitting a new document.","comment":""},{"message":"horizontal","comment":""},{"message":"No content to display.","comment":""},{"message":"All Documents","comment":""},{"message":"sm","comment":""},{"message":"Your Documents","comment":""},{"message":"View All","comment":""},{"message":"SUBMIT A DOCUMENT","comment":""}]</required_translations>
         <root_component/>
@@ -855,4 +859,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:05</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=3130b9e3cf4945109d122efad5978981"/>
 </record_update>

@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="Record">3530b9e3d2494510444b94d497dc5b81</macroponent>
         <name>approveOrDeclineDocument</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -39,5 +40,7 @@ function handler({api, event, helpers, imports}) {
         <sys_update_name>sys_ux_client_script_f530b9e36e494510ff43de33ce9dde87</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:59</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

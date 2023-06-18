@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-01-20 18:05:03</sys_created_on>
-            <sys_id>0782bd67974945109763728c1253aff4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>request_type</sys_name>
             <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-01-20 18:05:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c782bd67974945109763728c1253aff3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 18:05:03</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-01-20 18:05:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4382f567974945109763728c1253af53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 18:05:04</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-01-20 18:05:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c382bd67974945109763728c1253aff8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-20 18:05:04</sys_updated_on>

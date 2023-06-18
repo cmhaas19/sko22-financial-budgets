@@ -2,7 +2,9 @@
     <sys_search_source action="INSERT_OR_UPDATE">
         <active>false</active>
         <condition/>
+        <group/>
         <name>Document Approval</name>
+        <roles/>
         <source_table>x_snc_financial_0_document_approver</source_table>
         <sys_class_name>sys_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>

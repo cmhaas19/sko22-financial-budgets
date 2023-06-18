@@ -2,6 +2,7 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="Financial Budgets Group Requests Portal Config">f930b9e3c2494510132dc6dbc4b1346e</app_config>
         <description/>
+        <extension_point/>
         <fields/>
         <icon/>
         <name>Activity</name>

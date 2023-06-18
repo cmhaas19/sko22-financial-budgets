@@ -41,7 +41,7 @@
         <update_guid_history>9997b1abab4945109f8f28aac4f6c43c:-48393150</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Financial Budget Request.Any User">0b97b1ab974945109763728c1253afba</sys_audit_delete>
+        <sys_audit_delete display_value="">0b97b1ab974945109763728c1253afba</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 18:27:10</sys_created_on>

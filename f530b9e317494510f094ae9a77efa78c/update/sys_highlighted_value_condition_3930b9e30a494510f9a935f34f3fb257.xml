@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
     <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
         <conditions table="x_snc_financial_0_document_approver">state=approved^EQ<item display_value="Approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="approved"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <highlighted_value display_value="state">3130b9e335494510f1bb3b4d818d2857</highlighted_value>
+        <icon/>
         <order>0</order>
         <show_icon>true</show_icon>
         <status>positive</status>
@@ -20,5 +22,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
         <value_override/>
+        <variant/>
     </sys_highlighted_value_condition>
 </record_update>

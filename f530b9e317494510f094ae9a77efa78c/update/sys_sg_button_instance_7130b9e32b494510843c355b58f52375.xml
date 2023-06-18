@@ -4,6 +4,7 @@
         <button display_value="Return document">7930b9e39e49451017f53be2bc71ae73</button>
         <color_theme>secondary</color_theme>
         <description/>
+        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Return</label>

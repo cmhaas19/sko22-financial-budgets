@@ -2,6 +2,7 @@
     <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
         <empty_state/>
         <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows/>
         <name>Item Stream Segment</name>
         <order>10</order>
         <screen display_value="Approvals this year">3930b9e3c2494510205024a649e0bf74</screen>

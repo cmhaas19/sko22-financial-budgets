@@ -5,8 +5,8 @@
         <genius_result_assembly/>
         <label>Financial Budgets Group Requests - Document Approval Search Profile</label>
         <name>x_snc_financial_0_document_approval_sear</name>
-        <publish_id>33192d93-4971-4b1f-84ee-fdc9ed1151a1</publish_id>
-        <state>DRAFT</state>
+        <publish_id>c4aacd62-da3d-4be9-829d-354904916363</publish_id>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_search_profile</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 17:55:05</sys_created_on>

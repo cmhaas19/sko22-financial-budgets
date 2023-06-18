@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="404">fd30b9e33e4945103e1761dc7b6b8e87</macroponent>
         <name>Set title</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -26,5 +27,7 @@ function handler({api, event, helpers, imports}) {
         <sys_update_name>sys_ux_client_script_bd30b9e375494510a65e1b136af65787</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:21</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

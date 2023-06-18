@@ -6,7 +6,6 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
-        <compiler_build/>
         <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description>Workflow to help automate financial budget departmental requests</description>
@@ -16,6 +15,7 @@
         <name>Financial Budget Request</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <remote_trigger_id>a28ba3bb97c585109763728c1253afa8</remote_trigger_id>
         <run_as>user</run_as>
         <run_with_roles/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3098fdab974945109763728c1253af81</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Financial Budget Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name>sys_hub_flow_3098fdab974945109763728c1253af81</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 23:07:03</sys_updated_on>
+        <sys_updated_on>2023-05-30 00:38:19</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=3098fdab974945109763728c1253af81"/>
@@ -188,6 +188,7 @@
         <element>table_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -234,6 +235,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -269,6 +271,7 @@
         <element>current</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -315,6 +318,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -350,11 +354,12 @@
         <element>changed_fields</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>Changed Fields</label>
         <mandatory>false</mandatory>
         <max_length>4000</max_length>
@@ -396,6 +401,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -409,7 +415,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment>Higher Authority Assignment for Approval</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>10</order>
@@ -498,7 +503,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent/>
         <comment>Notify Group Executive Authority Required</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>11</order>
@@ -561,7 +565,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent/>
         <comment>Notify Financial Analyst with Error Codes and Change of State</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>15</order>
@@ -624,7 +627,6 @@
         <action_type display_value="Get Attachments on Record">082e70db0f4273003788001ea8767e02</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>2</order>
@@ -661,7 +663,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent/>
         <comment>Notify Requestor format &amp; approval have occurred and import is next.</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>1</order>
@@ -800,7 +801,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment>Reset State &amp; Append Error Codes to Finacial Analyst for Audit</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>14</order>
@@ -875,7 +875,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment>Close out work</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>6</order>
@@ -960,11 +959,9 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f366e37797c585109763728c1253afeb"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Import Invoice (Excel Format)">9ac327f397c585109763728c1253af98</action_type>
+        <action_type display_value="">9ac327f397c585109763728c1253af98</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>4</order>
@@ -980,19 +977,6 @@
         <ui_id>5f48da8c-3e25-4827-bf87-f706e24b2d6b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f766e37797c585109763728c1253afe0"/>
-    <sys_element_mapping action="delete_multiple" query="id=f766e37797c585109763728c1253afe0"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>excel_invoice</field>
-        <id>f766e37797c585109763728c1253afe0</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:09:51</sys_created_on>
-        <sys_id>fb66e37797c585109763728c1253afe1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:09:51</sys_updated_on>
-        <table>var__m_sys_hub_action_input_9ac327f397c585109763728c1253af98</table>
-        <value>{{9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__.message}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=f766e37797c585109763728c1253afe0"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f766e37797c585109763728c1253afe0"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1001,7 +985,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent/>
         <comment>Notify Requestor &amp; Finance Worker of Successful Import</comment>
-        <compiled_snapshot/>
         <display_text/>
         <flow display_value="Financial Budget Request">3098fdab974945109763728c1253af81</flow>
         <order>7</order>
@@ -1434,11 +1417,11 @@
         <sys_created_on>2022-01-20 18:37:23</sys_created_on>
         <sys_id>7cf9bdeb974945109763728c1253afd0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3098fdab974945109763728c1253af81_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 18:37:23</sys_updated_on>
         <url/>
@@ -1457,11 +1440,11 @@
         <sys_created_on>2022-01-20 18:37:23</sys_created_on>
         <sys_id>7cf9bdeb974945109763728c1253afe8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3098fdab974945109763728c1253af81_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 18:37:23</sys_updated_on>
         <url/>
@@ -1480,11 +1463,11 @@
         <sys_created_on>2022-01-20 18:37:23</sys_created_on>
         <sys_id>f0f9bdeb974945109763728c1253afe3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3098fdab974945109763728c1253af81_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 18:37:23</sys_updated_on>
         <url/>
@@ -1648,6 +1631,7 @@
         <element>table_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -1694,6 +1678,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -1729,6 +1714,7 @@
         <element>current</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -1775,6 +1761,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -1810,11 +1797,12 @@
         <element>changed_fields</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>Changed Fields</label>
         <mandatory>false</mandatory>
         <max_length>4000</max_length>
@@ -1856,6 +1844,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -1869,7 +1858,6 @@
         <action_type display_value="Get Attachments on Record">082e70db0f4273003788001ea8767e02</action_type>
         <action_type_parent display_value="Get Attachments on Record">31de959973c93300a3942ea3c4f6a774</action_type_parent>
         <comment/>
-        <compiled_snapshot>082e70db0f4273003788001ea8767e02</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>2</order>
@@ -1906,7 +1894,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <comment>Notify Financial Analyst with Error Codes and Change of State</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>15</order>
@@ -1969,7 +1956,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <comment>Notify Requestor format &amp; approval have occurred and import is next.</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>1</order>
@@ -2108,7 +2094,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <comment>Reset State &amp; Append Error Codes to Finacial Analyst for Audit</comment>
-        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>14</order>
@@ -2179,11 +2164,9 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=718b63bb97c585109763728c1253afca"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Import Invoice (Excel Format)">9ac327f397c585109763728c1253af98</action_type>
-        <action_type_parent display_value="Import Invoice (Excel Format)">276263b397c585109763728c1253afbe</action_type_parent>
+        <action_type display_value="">9ac327f397c585109763728c1253af98</action_type>
+        <action_type_parent display_value="">276263b397c585109763728c1253afbe</action_type_parent>
         <comment/>
-        <compiled_snapshot>9ac327f397c585109763728c1253af98</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>4</order>
@@ -2199,19 +2182,6 @@
         <ui_id>5f48da8c-3e25-4827-bf87-f706e24b2d6b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=758b63bb97c585109763728c1253af82"/>
-    <sys_element_mapping action="delete_multiple" query="id=758b63bb97c585109763728c1253af82"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>excel_invoice</field>
-        <id>758b63bb97c585109763728c1253af82</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:32:06</sys_created_on>
-        <sys_id>b58b63bb97c585109763728c1253af83</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-21 21:32:06</sys_updated_on>
-        <table>var__m_sys_hub_action_input_9ac327f397c585109763728c1253af98</table>
-        <value>{{9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__.message}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=758b63bb97c585109763728c1253af82"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=758b63bb97c585109763728c1253af82"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -2220,7 +2190,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <comment>Notify Requestor &amp; Finance Workfer of Successful Import</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>7</order>
@@ -2283,7 +2252,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <comment>Higher Authority Assignment for Approval</comment>
-        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>11</order>
@@ -2372,7 +2340,6 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <comment>Notify Group Executive Authority Required</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>12</order>
@@ -2435,7 +2402,6 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <comment>Close out work</comment>
-        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Financial Budget Request">1d8b23bb97c585109763728c1253afad</flow>
         <order>6</order>
@@ -2941,8 +2907,9 @@
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_1d8b23bb97c585109763728c1253afad"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_1d8b23bb97c585109763728c1253afad"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_1d8b23bb97c585109763728c1253afad"/>
-    <sys_hub_flow action="update">
+    <sys_hub_flow action="UPDATE">
         <sys_id>3098fdab974945109763728c1253af81</sys_id>
         <latest_snapshot>1d8b23bb97c585109763728c1253afad</latest_snapshot>
+        <compiler_build/>
     </sys_hub_flow>
 </record_update>

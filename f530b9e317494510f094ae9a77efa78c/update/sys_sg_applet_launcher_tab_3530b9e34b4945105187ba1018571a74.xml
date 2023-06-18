@@ -4,7 +4,6 @@
         <applet_launcher display_value="Document Approval">7d30b9e3904945103fb88716c1e04773</applet_launcher>
         <icon display_value="Document Approvals">f130b9e33349451041c8873c57912f74</icon>
         <label>Dcoument Approval</label>
-        <roles/>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 17:55:14</sys_created_on>

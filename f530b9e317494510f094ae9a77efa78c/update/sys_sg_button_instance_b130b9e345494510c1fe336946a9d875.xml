@@ -4,6 +4,7 @@
         <button display_value="Reject document">3130b9e3cf494510a4675da87328ef73</button>
         <color_theme>destructive</color_theme>
         <description/>
+        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

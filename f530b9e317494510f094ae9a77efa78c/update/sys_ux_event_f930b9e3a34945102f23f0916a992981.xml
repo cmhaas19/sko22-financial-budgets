@@ -2,6 +2,7 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>DATA_CARD_CLICKED</event_name>
+        <explicit_api_name/>
         <interfaces/>
         <label>Data Card Clicked</label>
         <props>[{"name":"sysid","fieldType":"","label":"Syd ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>

@@ -420,8 +420,11 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
+        <description/>
         <dispatched_events>b130b9e3ea49451068812dbc4d471339,4515f3e853031010ffa5ddeeff7b12a7,1515f3e853031010ffa5ddeeff7b12ad,9515f3e853031010ffa5ddeeff7b12de</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events>a3b05c2f9868a010f877170d6e7d656a</handled_events>
         <interactions/>
         <interfaces/>
@@ -533,6 +536,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Simple List</name>
+        <output_prop_mapping/>
         <props>[ {
   "name" : "columns",
   "label" : "Columns",
@@ -632,4 +636,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:54</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=f530b9e333494510177c21ff7258ca35"/>
 </record_update>

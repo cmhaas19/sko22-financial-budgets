@@ -2084,8 +2084,11 @@
   "inputValues" : { },
   "readEvaluationMode" : "EAGER"
 } ]</data>
+        <description/>
         <dispatched_events>3130b9e3a449451070659326516c2a39</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -2115,6 +2118,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[{"message":"Document Approvals This Year","comment":""},{"message":"Recently Approved Documents","comment":""},{"message":"Approval Summary","comment":""},{"message":"Approvals By Category This Quarter","comment":""},{"message":"Needs Attention","comment":""},{"message":"New Document Approvals","comment":""}]</required_translations>
         <root_component/>
@@ -2135,4 +2139,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:54:55</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=f130b9e3d24945105aa0fd3a24652f36"/>
 </record_update>

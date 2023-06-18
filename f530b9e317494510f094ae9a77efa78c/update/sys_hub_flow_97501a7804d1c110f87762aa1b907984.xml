@@ -17,6 +17,7 @@
         <name>Copy of Haas - Financial Budget Request</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <remote_trigger_id/>
         <run_as>user</run_as>
         <run_with_roles/>
@@ -138,6 +139,7 @@
         <element>table_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -184,6 +186,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -219,11 +222,12 @@
         <element>changed_fields</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
         <hint/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">string</internal_type>
         <label>Changed Fields</label>
         <mandatory>false</mandatory>
         <max_length>4000</max_length>
@@ -265,6 +269,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -300,6 +305,7 @@
         <element>current</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -346,6 +352,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -683,9 +690,8 @@
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=93501a7804d1c110f87762aa1b9079b5"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Import Invoice (Excel Format)">9ac327f397c585109763728c1253af98</action_type>
-        <action_type_parent display_value="Import Invoice (Excel Format)">276263b397c585109763728c1253afbe</action_type_parent>
+        <action_type display_value="">9ac327f397c585109763728c1253af98</action_type>
+        <action_type_parent display_value="">276263b397c585109763728c1253afbe</action_type_parent>
         <comment/>
         <compiled_snapshot>9ac327f397c585109763728c1253af98</compiled_snapshot>
         <display_text/>
@@ -703,19 +709,6 @@
         <ui_id>5f48da8c-3e25-4827-bf87-f706e24b2d6b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=93501a7804d1c110f87762aa1b9079c8"/>
-    <sys_element_mapping action="delete_multiple" query="id=93501a7804d1c110f87762aa1b9079c8"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>excel_invoice</field>
-        <id>93501a7804d1c110f87762aa1b9079c8</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-24 17:27:44</sys_created_on>
-        <sys_id>d3501a7804d1c110f87762aa1b9079c9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-24 17:27:44</sys_updated_on>
-        <table>var__m_sys_hub_action_input_9ac327f397c585109763728c1253af98</table>
-        <value>{{9a3a1659-13f6-4e6f-847a-55d3a4a1d9c2.__action_status__.message}}</value>
-    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=93501a7804d1c110f87762aa1b9079c8"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=93501a7804d1c110f87762aa1b9079c8"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -992,11 +985,11 @@
         <sys_created_on>2022-01-24 17:27:44</sys_created_on>
         <sys_id>1f501a7804d1c110f87762aa1b907990</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_97501a7804d1c110f87762aa1b907984_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-24 17:27:44</sys_updated_on>
         <url/>
@@ -1015,11 +1008,11 @@
         <sys_created_on>2022-01-24 17:27:44</sys_created_on>
         <sys_id>1f501a7804d1c110f87762aa1b9079a0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_97501a7804d1c110f87762aa1b907984_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-24 17:27:44</sys_updated_on>
         <url/>
@@ -1038,11 +1031,11 @@
         <sys_created_on>2022-01-24 17:27:44</sys_created_on>
         <sys_id>d7501a7804d1c110f87762aa1b9079a4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_97501a7804d1c110f87762aa1b907984_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-24 17:27:44</sys_updated_on>
         <url/>

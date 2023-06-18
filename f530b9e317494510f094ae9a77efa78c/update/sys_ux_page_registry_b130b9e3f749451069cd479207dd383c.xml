@@ -5,8 +5,9 @@
         <admin_panel_table>sys_ux_app_config</admin_panel_table>
         <auth_routes/>
         <page/>
+        <parent_app/>
         <path>x_snc_financial_0-doc-approval/workspace</path>
-        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
         <sys_class_name>sys_ux_page_registry</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 17:54:59</sys_created_on>

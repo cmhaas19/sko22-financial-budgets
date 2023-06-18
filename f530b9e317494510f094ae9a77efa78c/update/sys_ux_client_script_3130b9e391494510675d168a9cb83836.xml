@@ -3,6 +3,7 @@
         <includes/>
         <macroponent display_value="doc_submitted">f130b9e3ac4945109a19d2fbe6789135</macroponent>
         <name>View Doc Redirection</name>
+        <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
  * @param {params} params
@@ -32,5 +33,7 @@ imports
         <sys_update_name>sys_ux_client_script_3130b9e391494510675d168a9cb83836</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:21</sys_updated_on>
+        <target/>
+        <type/>
     </sys_ux_client_script>
 </record_update>

@@ -999,8 +999,11 @@
   "inputValues" : { },
   "readEvaluationMode" : "EAGER"
 } ]</data>
+        <description/>
         <dispatched_events>3530b9e3b94945103c49a8cbdf77c33a,bd30b9e34a49451078d98b5f0658e139</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events>509663140f0310107d20409dc4767e00,f8d5cc6c0f0310107d20409dc4767e51,835ec4a00f4310107d20409dc4767eaa,48639d350fe310107d20409dc4767e87,3bcac58cb7731010cd8af8e32e11a971</handled_events>
         <interactions/>
         <interfaces/>
@@ -1154,6 +1157,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>doc_submit</name>
+        <output_prop_mapping/>
         <props>[ {
   "name" : "sysId",
   "label" : "sysId",
@@ -1207,4 +1211,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:08</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=f930b9e38849451059e600cd9b2f9034"/>
 </record_update>
