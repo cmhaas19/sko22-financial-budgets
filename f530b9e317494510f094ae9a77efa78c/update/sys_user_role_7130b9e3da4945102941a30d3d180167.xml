@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>This is the approver for the document approval app. An user with this role can create,read,delete all documents and read document approval category data.</description>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_financial_0.approver</name>

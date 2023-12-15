@@ -23,6 +23,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/svg+xml</content_type>
+        <encryption_context/>
         <file_name>now-logo-white.svg</file_name>
         <hash>4154310b4c5bdb83623233669adb4537c8f9b2ff596125edb195256baec5c6c8</hash>
         <image_height/>

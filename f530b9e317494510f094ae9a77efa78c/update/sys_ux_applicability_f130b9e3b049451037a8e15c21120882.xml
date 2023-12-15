@@ -4,6 +4,7 @@
         <api_name>x_snc_financial_0.Document Approver</api_name>
         <description>Role for document approver</description>
         <name>Document Approver</name>
+        <role_names/>
         <roles name="x_snc_financial_0.approver">7130b9e3da4945102941a30d3d180167</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

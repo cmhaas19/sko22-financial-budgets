@@ -4,7 +4,7 @@
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Category" mandatory="true" max_length="32" name="approval_category" reference="x_snc_financial_0_document_approval_category" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" mandatory="true" max_length="40" name="number" read_only="true" type="string" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="submitted" label="Status" max_length="40" name="status" type="string">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="1" value="submitted"/>
@@ -13,7 +13,7 @@
                 <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" label="Submitter" mandatory="true" max_length="32" name="submitter" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Submitter" mandatory="true" max_length="32" name="submitter" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="40" name="work_notes" type="journal"/>
         <index name="index">
             <element name="approval_category"/>

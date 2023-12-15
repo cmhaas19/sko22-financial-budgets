@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="ais_genius_result_configuration">
     <ais_genius_result_configuration action="INSERT_OR_UPDATE">
         <active>true</active>
+        <category/>
         <handler_type>search</handler_type>
         <name>Document Approval Genius Result</name>
         <return_fields>number,name,approval_category,submitter, status, description,sys_id</return_fields>

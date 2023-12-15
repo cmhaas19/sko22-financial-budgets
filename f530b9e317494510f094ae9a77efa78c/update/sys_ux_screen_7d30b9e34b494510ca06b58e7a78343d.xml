@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Financial Budgets Group Requests Portal Config">f930b9e3c2494510132dc6dbc4b1346e</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Attachment">3930b9e337494510cb62655aa9c99c3b</macroponent>
         <macroponent_config>{

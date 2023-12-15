@@ -16,5 +16,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 17:55:06</sys_updated_on>
         <table>x_snc_financial_0_document_approval</table>
+        <view/>
     </sys_workspace_declarative_action_exclusion>
 </record_update>

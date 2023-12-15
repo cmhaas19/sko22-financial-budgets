@@ -4,6 +4,7 @@
         <acls/>
         <active>false</active>
         <annotation/>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <compiler_build/>
@@ -191,6 +192,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6db66b7797c585109763728c1253af21"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -274,6 +276,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=e5b66b7797c585109763728c1253af1b"/>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -357,6 +360,7 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=e5b66b7797c585109763728c1253af27"/>
     <sys_hub_flow_output action="delete_multiple" query="model=e5b62b7797c585109763728c1253aff9"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=e5b62b7797c585109763728c1253aff9"/>
     <sys_hub_action_instance action="delete_multiple" query="flow=e5b62b7797c585109763728c1253aff9^sys_idNOT IN29b66b7797c585109763728c1253af7c,35b66b7797c585109763728c1253af90,35b66b7797c585109763728c1253af96,8ef6af7797c585109763728c1253af76,a1b66b7797c585109763728c1253af70,b5b66b7797c585109763728c1253af88"/>
@@ -365,6 +369,7 @@
         <action_inputs/>
         <action_type display_value="Get Attachments on Record">082e70db0f4273003788001ea8767e02</action_type>
         <action_type_parent display_value="Get Attachments on Record">31de959973c93300a3942ea3c4f6a774</action_type_parent>
+        <attributes/>
         <comment/>
         <compiled_snapshot>082e70db0f4273003788001ea8767e02</compiled_snapshot>
         <display_text/>
@@ -402,6 +407,7 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <attributes/>
         <comment>Notify Requestor &amp; Finance Workfer of Successful Import</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
@@ -464,6 +470,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment>Reset State &amp; Append Error Codes to Finacial Analyst for Audit</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
@@ -502,6 +509,7 @@
         <action_inputs/>
         <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>I NEED HELP HERE TO IMPORT TO ORACLE</comment>
         <compiled_snapshot/>
         <display_text/>
@@ -541,6 +549,7 @@
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <attributes/>
         <comment>Notify Requestor format &amp; approval have occurred and import is next.</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
@@ -680,6 +689,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment>Close out work</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
@@ -767,6 +777,7 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=e5b62b7797c585109763728c1253aff9"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=e5b62b7797c585109763728c1253aff9^sys_idNOT IN6db66b7797c585109763728c1253af4c,edb66b7797c585109763728c1253af48"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">fb66277797c585109763728c1253af02</block>
         <comment/>
         <connected_to/>
@@ -814,6 +825,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=6db66b7797c585109763728c1253af4c"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6db66b7797c585109763728c1253af4c"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">3366e37797c585109763728c1253afe2</block>
         <comment/>
         <connected_to/>

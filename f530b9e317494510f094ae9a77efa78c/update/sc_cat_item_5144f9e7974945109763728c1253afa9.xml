@@ -50,7 +50,7 @@
         <published_ref/>
         <recurring_frequency/>
         <request_method>submit</request_method>
-        <roles/>
+        <roles>snc_internal</roles>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
@@ -63,20 +63,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 18:12:35</sys_created_on>
         <sys_id>5144f9e7974945109763728c1253afa9</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name>Financial Budget Request</sys_name>
         <sys_package display_value="Financial Budgets Group Requests" source="x_snc_financial_0">f530b9e317494510f094ae9a77efa78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Financial Budgets Group Requests">f530b9e317494510f094ae9a77efa78c</sys_scope>
         <sys_update_name>sc_cat_item_5144f9e7974945109763728c1253afa9</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-01-20 18:27:22</sys_updated_on>
+        <sys_updated_on>2023-08-21 17:51:51</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
+        <version/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

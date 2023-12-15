@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Financial Budgets Group Requests Workspace Config">b930b9e3354945105deb33ecd9ea3d6c</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {
   "eventMappingId" : "ckkeefoaaddzaaaaeeccddhhhyoilmeejjw",
   "isConfiguration" : false,

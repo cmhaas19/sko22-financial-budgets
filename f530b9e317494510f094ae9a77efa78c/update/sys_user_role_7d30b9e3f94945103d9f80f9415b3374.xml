@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>This is the admin role for the Document Approval App. An user with this role can create, read, write and delete in the tables document_approval and document_approval_category</description>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_financial_0.admin</name>

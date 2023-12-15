@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>This is the submitter role for the document approval app. An user with this role can create documents, read their own documents, edit their own documents when status is not submitted and delete their own documents. They can also read data from document approval category.  </description>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_financial_0.submitter</name>

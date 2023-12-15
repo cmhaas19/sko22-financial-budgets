@@ -23,6 +23,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>application/x-font-ttf</content_type>
+        <encryption_context/>
         <file_name>Roboto-Medium.ttf</file_name>
         <hash>e35252aa3dc2e84e9d7211586fee9aede2a426d3230c8b131881d985f16ff836</hash>
         <image_height/>
